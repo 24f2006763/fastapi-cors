@@ -8,7 +8,7 @@ app = FastAPI()
 
 # --- ASSIGNED CONFIGURATION VALUES ---
 ASSIGNED_ORIGIN = "https://dash-cv7skh.example.com"
-MY_EMAIL = "your-email@example.com"  # <-- CHANGE THIS to your actual logged-in email address
+MY_EMAIL = "24f2006763@ds.study.iitm.ac.in"  # <-- CHANGE THIS to your actual logged-in email address
 
 # --- MIDDLEWARE FOR PROCESS TIME, REQUEST ID, AND STRICT CORS ---
 @app.middleware("http")
